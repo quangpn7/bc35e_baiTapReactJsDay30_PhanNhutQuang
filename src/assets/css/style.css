@@ -1,0 +1,12 @@
+.bs-icon-feature {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  height: 4rem !important;
+  width: 4rem !important;
+  font-size: 2rem;
+  border-radius: 0.3rem;
+}
+.item-box-text {
+  font-size: 1.5rem;
+}
